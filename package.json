@@ -1,0 +1,11 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant Application using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chikumbutso Thomas",
+  "license": "MIT"
+}
